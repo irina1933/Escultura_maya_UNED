@@ -1,0 +1,54 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh idInFile="-1" visible="0" label="LICENSE_MayanSculture.txt" filename="MODELOS PARA LA PRÁCTICA/LICENSE_MayanSculture.txt">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3">000001000000000000000100000001001000001010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="0" label="MayanSculpture.ply" filename="MODELOS PARA LA PRÁCTICA/MayanSculpture.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3">000111010000000000000100000001001100000010100000000100111010110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="0" label="Poisson mesh" filename="malla 2 maya.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3">100001010000000000000100000001011110000010100000000100111010100000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="0" label="Poisson mesh(1)" filename="Malla 1 MAYA.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3">110001010000000000000110000001011110000010100000010100111010100000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="0" label="Poisson mesh(1)_copy" filename="malla 3 maya.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3">100001010000000000000100000001011110000010100000000100111010100000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="0" label="Poisson mesh(1)_copy_copy" filename="malla 4 maya.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3">100001010000000000000100000001011110000010100000000100111010100000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="0" label="VoroAtlas" filename="malla 5 maya.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="255 255 255 255" solidColor="192 192 192 255" pointSize="3">100001000000000000000100000001010100010010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" visible="1" label="VoroAtlas_copy" filename="malla 6 maya.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="252 233 79 255" boxColor="234 234 234 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3">100001000000000000000100000001010100010010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
